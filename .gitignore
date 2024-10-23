@@ -1,0 +1,10 @@
+.venv/
+.vscode/
+.depend
+main
+*.txt
+*.csv
+*.out
+out/
+build/
+data/
