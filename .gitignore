@@ -8,3 +8,7 @@ main
 out/
 build/
 data/
+__pycache__/
+cifar/
+log/
+layer_record/
